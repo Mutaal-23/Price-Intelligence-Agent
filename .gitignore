@@ -1,0 +1,13 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+dispatch_log.json
+webhook_events.json
+checkpoints.sqlite
+*.sqlite
+.uv/
+.DS_Store
+# SQLite sidecar files (WAL/SHM) sit alongside the DB and are ignored by name above
+*.sqlite-wal
+*.sqlite-shm
