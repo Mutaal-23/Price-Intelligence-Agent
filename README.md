@@ -1,4 +1,4 @@
-# Price — Price Intelligence Agent
+# Price Intelligence Agent
 
 Compares a product across marketplaces worldwide, normalises the results into one
 currency, and **waits for a human to approve the result before dispatching it**.
